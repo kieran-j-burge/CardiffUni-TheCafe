@@ -1,0 +1,2 @@
+Git Repository HTTPS: https://gitlab.cs.cf.ac.uk/c1616749/cardiff-assessment-and-feedback-exchange.git
+Git Repository SSH: git@gitlab.cs.cf.ac.uk:c1616749/cardiff-assessment-and-feedback-exchange.git

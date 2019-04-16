@@ -1,0 +1,3 @@
+const BCRYPT_SALT_ROUNDS = 10;
+
+export default BCRYPT_SALT_ROUNDS;
